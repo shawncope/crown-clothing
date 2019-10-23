@@ -1,10 +1,9 @@
 import firebase from 'firebase/app';
 import 'firebase/firestore';
 import 'firebase/auth';
-import api_keys from '../api-keys';
 
 const config = {
-  apiKey: api_keys.fireBaseApiKey,
+  apiKey: 'AIzaSyCvy7QPRSzAMHeY-MEcwCPkvGnPd-RWGIg',
   authDomain: 'crown-db-dbf36.firebaseapp.com',
   databaseURL: 'https://crown-db-dbf36.firebaseio.com',
   projectId: 'crown-db-dbf36',

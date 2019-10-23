@@ -22,5 +22,5 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-#api-keys that don't need to be on github
+# api keys that don't need to be on github
 src/api-keys.js
