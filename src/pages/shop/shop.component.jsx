@@ -36,7 +36,7 @@ class ShopPage extends React.Component {
     //   this.setState({ loading: false });
     // });
 
-    // This method is using a standard fetch to get the data
+    // This method is using a standard fetch to get the data. We are only logging this because data is extremely nested
     // fetch(
     //   'https://firestore.googleapis.com/v1/projects/crown-db-dbf36/databases/(default)/documents/collections'
     // )
